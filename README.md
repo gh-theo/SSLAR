@@ -2,7 +2,7 @@
 
 # SSLAR VPN官网注册地址｜真实测速｜价格与套餐详解
 
-[完整详情与最新套餐](https://eoht.net/serve/airport/sslar) · [机场仓库汇总](https://github.com/gh-theo/airport-summary)
+[完整详情与最新套餐](https://eoht.net/serve/airport/sslar) · [机场仓库汇总](https://github.com/jcsift/airport-summary)
 
 SSLAR 是使用 IEPL/BGP 线路的机场订阅服务，常见叫法包括“SSLAR VPN”“SSLAR 梯子”和“SSLAR 机场”。选择时可先看套餐包含的代理节点与协议；本页还保留历史解锁和测速截图，但截图只能反映记录当时的情况。
 
