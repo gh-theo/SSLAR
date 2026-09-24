@@ -11,7 +11,8 @@ SSLAR 是使用 IEPL/BGP 线路的机场订阅服务，常见叫法包括“SSLA
 >
 > - **最低门槛**：Basic 套餐 100GB 月付 ¥17，年付 ¥163。
 > - **核心特点**：页面列有 IEPL、BGP 以及 Shadowsocks / VLESS 协议选择。
-> - **优惠与证据**：页面列有 8 折码，并保留历史流媒体、晚高峰、Google 与 YouTube 测试截图。
+> - **中秋优惠**：9 月 23 日至 9 月 26 日，月付、季付使用 `FrQTxMNh` 享 9 折；半年付、年付使用 `vJZCxTVo` 享 8 折。
+> - **测速资料**：保留历史流媒体、晚高峰、Google 与 YouTube 测试截图。
 >
 > [查看套餐与优惠](#sslar-vpn-plans) · [查看历史截图](#sslar-speed-test) · [查看机场推荐一览表](https://eoht.net/serve/airport/summary#vpn-airport-plan-comparison)
 >
@@ -50,9 +51,12 @@ SSLAR 是使用 IEPL/BGP 线路的机场订阅服务，常见叫法包括“SSLA
 **支付方式** 支付宝 / 微信支付
 
 > [!TIP]
+> **SSLAR 中秋优惠活动**
 >
-> - **8折折扣码**：`ko3eTt0w`
-> - 季付**9**折/年付**8**折，配合折扣码后的实时价格以结算页为准
+> - **活动时间**：9 月 23 日至 9 月 26 日。
+> - **月付、季付 9 折**：`FrQTxMNh`，适用于月付、季付方案。
+> - **半年付、年付 8 折**：`vJZCxTVo`，适用于半年付、年付方案。
+> - 下表为套餐标价，最终实付金额及是否与套餐周期优惠叠加，以结算页为准。
 > - **新手建议**：轻度使用选 **Basic**，日常流媒体与 AI 工具推荐 **Standard / Premium**。
 >
 
